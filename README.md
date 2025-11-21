@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/quangphamai">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blueviolet" alt="Profile Views" /> -->
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Your Name
+name: Pham Tran Minh Quang
 location: Vietnam 🇻🇳
 current_work: Smart Traffic System - AI-powered Route Optimization
 interests: [AI/ML, Mobile Development, Clean Architecture, Green Tech]
