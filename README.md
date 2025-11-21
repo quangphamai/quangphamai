@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Minh+Quang;Data+Analyst+%F0%9F%9A%8;AI+%26+Engineer++%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Minh+Quang;Data+Analyst+%F0%9F%9A%80;AI+Engineer++%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🌟 Building Smart Solutions for a Better World 🌍</h3>
@@ -8,7 +8,7 @@
   <a href="https://github.com/quangphamai">
     <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/quangphamai">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blueviolet" alt="Profile Views" />
