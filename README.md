@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Minh+Quang;AI+Engineer+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;Deep+Learning+Specialist+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🤖 Crafting AI Solutions That Transform Tomorrow �</h3>
+<h3 align="center">🤖 Crafting AI Solutions That Transform Tomorrow</h3>
 
 <p align="center">
   <a href="https://github.com/quangphamai">
@@ -10,6 +10,12 @@
   </a>
   <a href="https://linkedin.com/in/quangphamai">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:quangphamai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Connect-blue?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/iamquangg.2004/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=quangphamai&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
@@ -42,18 +48,14 @@ class AIEngineer:
         self.name = "Pham Tran Minh Quang"
         self.role = "AI Engineer & Machine Learning Specialist"
         self.location = "Vietnam 🇻🇳"
+        self.university = "Ho Chi Minh City University of Technology"
         self.education = "Computer Science & AI"
         
     def current_focus(self):
         return {
-            "🔬 Research": ["Deep Learning", "Computer Vision", "NLP"],
-            "🚀 Building": "Smart Traffic System with AI-powered Optimization",
-            "🌱 Mission": "Leveraging AI for Environmental Sustainability",
-            "📚 Learning": ["Transformer Architectures", "Reinforcement Learning", "MLOps"]
+            "🔬 Research": ["Deep Learning", "Large Language Model", "NLP"],
+            "📚 Learning": ["Transformer Architectures", "Reinforcement Learning"]
         }
-    
-    def life_philosophy(self):
-        return "AI should make the world smarter, greener, and more accessible 🌍"
 
 me = AIEngineer()
 ```
