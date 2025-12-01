@@ -164,7 +164,6 @@ I'm always excited to collaborate on:
 - 🤖 **AI/ML Projects**: Computer Vision, NLP, Deep Learning
 - 🌱 **Green Tech**: Environmental and sustainability solutions
 - 📱 **Mobile AI**: On-device ML and intelligent apps
-- 🚀 **Startup Ideas**: Tech-driven innovation
 - 📖 **Open Source**: Contributing to the community
 
 ### 💌 Reach Out!
