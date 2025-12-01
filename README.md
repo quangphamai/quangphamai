@@ -105,14 +105,13 @@ me = AIEngineer()
 
 <div align="center">
 
-```
-🎯 Key Features:
-├── 🧠 ML-based route optimization using historical traffic data
-├── 🌍 Real-time air quality monitoring with IoT sensors
-├── 📊 Predictive analytics for traffic congestion
-├── 🎁 Eco-reward system for sustainable transportation
-└── 📱 Cross-platform mobile application
-```
+**🎯 Key Features:**
+
+🧠 ML-based route optimization using historical traffic data  
+🌍 Real-time air quality monitoring with IoT sensors  
+📊 Predictive analytics for traffic congestion  
+🎁 Eco-reward system for sustainable transportation  
+📱 Cross-platform mobile application
 
 </div>
 
