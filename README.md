@@ -22,24 +22,6 @@
 
 ---
 
-## 🎮 Play Tic-Tac-Toe with Me!
-
-<div align="center">
-
-**Click a cell to make your move! (You are ⭕)**
-
-| | | |
-|:---:|:---:|:---:|
-| [⬜](https://github.com/quangphamai/quangphamai/issues/new?title=tictactoe%7Cmove%7C1&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/quangphamai/quangphamai/issues/new?title=tictactoe%7Cmove%7C2&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/quangphamai/quangphamai/issues/new?title=tictactoe%7Cmove%7C3&body=Just+push+%27Submit+new+issue%27.) |
-| [⬜](https://github.com/quangphamai/quangphamai/issues/new?title=tictactoe%7Cmove%7C4&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/quangphamai/quangphamai/issues/new?title=tictactoe%7Cmove%7C5&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/quangphamai/quangphamai/issues/new?title=tictactoe%7Cmove%7C6&body=Just+push+%27Submit+new+issue%27.) |
-| [⬜](https://github.com/quangphamai/quangphamai/issues/new?title=tictactoe%7Cmove%7C7&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/quangphamai/quangphamai/issues/new?title=tictactoe%7Cmove%7C8&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/quangphamai/quangphamai/issues/new?title=tictactoe%7Cmove%7C9&body=Just+push+%27Submit+new+issue%27.) |
-
-**Last move:** First move - your turn!
-
-</div>
-
----
-
 ## 🧑‍💻 About Me
 
 ```python
@@ -121,6 +103,8 @@ me = AIEngineer()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)](https://github.com/quangphamai)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)](https://github.com/quangphamai)
 
+<div align="center">
+
 ```
 🎯 Key Features:
 ├── 🧠 ML-based route optimization using historical traffic data
@@ -129,6 +113,8 @@ me = AIEngineer()
 ├── 🎁 Eco-reward system for sustainable transportation
 └── 📱 Cross-platform mobile application
 ```
+
+</div>
 
 > **Impact:** Reducing traffic congestion by 30% and CO₂ emissions by 25% in pilot areas
 
@@ -155,10 +141,6 @@ me = AIEngineer()
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quangphamai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangphamai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=quangphamai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
