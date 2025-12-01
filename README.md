@@ -77,41 +77,9 @@ me = AIEngineer()
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🤖 AI Specializations
-
-```mermaid
-mindmap
-  root((AI & ML))
-    Computer Vision
-      Object Detection
-      Image Segmentation
-      Face Recognition
-      OCR Systems
-    Natural Language Processing
-      Text Classification
-      Sentiment Analysis
-      Language Models
-      Chatbots
-    Deep Learning
-      CNNs
-      RNNs/LSTMs
-      Transformers
-      GANs
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Reinforcement Learning
-      Time Series Analysis
-```
-
-</div>
 
 ---
 
@@ -122,26 +90,20 @@ mindmap
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🎨 Mobile & Web Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🗄️ Databases & Cloud
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -176,30 +138,6 @@ mindmap
 
 ---
 
-### 🧠 [AI Research Projects]
-**Exploring Cutting-Edge Machine Learning Techniques**
-
-```python
-research_areas = {
-    "Computer Vision": [
-        "Real-time object detection for autonomous systems",
-        "Image segmentation for medical diagnostics",
-        "Facial emotion recognition"
-    ],
-    "NLP": [
-        "Vietnamese language sentiment analysis",
-        "Document classification with transformers",
-        "Chatbot development with context awareness"
-    ],
-    "Optimization": [
-        "Genetic algorithms for route planning",
-        "Reinforcement learning for traffic management"
-    ]
-}
-```
-
----
-
 ### 📊 [Data Science Portfolio]
 **Transforming Raw Data into Actionable Insights**
 
@@ -220,7 +158,7 @@ research_areas = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangphamai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=quangphamai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -233,110 +171,6 @@ research_areas = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=quangphamai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-
-### 🎯 2024 Milestones
-
-| Achievement | Status | Impact |
-|-------------|--------|--------|
-| 🚀 Smart Traffic System Launch | 🟢 In Progress | Reducing urban congestion |
-| 🤖 AI Research Papers | � Research Phase | Contributing to AI community |
-| 📱 Flutter Clean Architecture | ✅ Mastered | Production-ready apps |
-| 🌱 Green Tech Contributions | ✅ Ongoing | Environmental impact |
-| 📝 Technical Blogging | 🟢 Active | Knowledge sharing |
-
-</div>
-
----
-
-## 💻 Coding Activity
-
-<div align="center">
-
-```text
-Python         ████████████████░░░░   80%  🥇 Primary Language
-Dart           ██████████░░░░░░░░░░   50%  📱 Mobile Development
-JavaScript     ████████░░░░░░░░░░░░   40%  🌐 Web Development
-TypeScript     ██████░░░░░░░░░░░░░░   30%  ⚡ Type-safe Frontend
-SQL            ████░░░░░░░░░░░░░░░░   20%  🗄️ Database Management
-```
-
-</div>
-
----
-
-## 🎯 Current Focus & Goals
-
-```yaml
-Current Sprint (Q4 2024):
-  🚀 Primary Project:
-    - Smart Traffic System MVP deployment
-    - AI model optimization for real-time inference
-    - Integration with city IoT infrastructure
-  
-  📚 Learning & Research:
-    - Advanced Transformer architectures (BERT, GPT variants)
-    - Reinforcement Learning for autonomous systems
-    - MLOps & model deployment at scale
-    - Edge AI & TinyML for resource-constrained devices
-  
-  🌟 Community Engagement:
-    - Contributing to open-source ML libraries
-    - Writing technical blogs on AI/ML topics
-    - Mentoring junior developers in AI
-    - Speaking at tech meetups
-
-2024 Vision:
-  - ✅ Master deep learning frameworks
-  - ✅ Build production-ready AI systems
-  - ✅ Contribute to green tech solutions
-  - 🔄 Publish AI research papers
-  - � Expand ML portfolio with diverse projects
-```
-
----
-
-## 🧪 AI Model Development Pipeline
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Data Collection] --> B[Data Preprocessing]
-    B --> C[Feature Engineering]
-    C --> D[Model Selection]
-    D --> E[Training & Validation]
-    E --> F{Performance OK?}
-    F -->|No| D
-    F -->|Yes| G[Hyperparameter Tuning]
-    G --> H[Model Evaluation]
-    H --> I[Deployment]
-    I --> J[Monitoring & Maintenance]
-    J -->|Feedback| A
-    
-    style A fill:#ff6b6b
-    style E fill:#4ecdc4
-    style I fill:#95e1d3
-    style J fill:#f3a683
-```
-
-</div>
-
----
-
-## 📚 Technical Blog & Knowledge Sharing
-
-<div align="center">
-
-| Topic | Description | Link |
-|-------|-------------|------|
-| 🧠 Deep Learning Fundamentals | Understanding neural networks from scratch | Coming Soon |
-| 🚗 Traffic Prediction with ML | Time series analysis for urban planning | Coming Soon |
-| 📱 Flutter + AI Integration | Building intelligent mobile apps | Coming Soon |
-| 🌍 AI for Sustainability | Using ML to combat climate change | Coming Soon |
-
 </div>
 
 ---
@@ -355,7 +189,7 @@ I'm always excited to collaborate on:
 ### 💌 Reach Out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quangphamai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quangphamai@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quangptm.it@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quangphamai)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quangphamai)
 
@@ -371,9 +205,15 @@ I'm always excited to collaborate on:
 
 ---
 
-### � Contribution Snake
+### 🐍 Watch the Snake Eat My Contributions!
 
-![Snake animation](https://github.com/quangphamai/quangphamai/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quangphamai/quangphamai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quangphamai/quangphamai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quangphamai/quangphamai/output/github-contribution-grid-snake.svg">
+</picture>
+
+*The snake automatically moves and eats my GitHub contributions! 🎮*
 
 ---
 
