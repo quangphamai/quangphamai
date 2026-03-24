@@ -42,14 +42,6 @@ class AIEngineer:
 me = AIEngineer()
 ```
 
-<div align="center">
-
-### 💡 "Intelligence is the ability to learn, adapt, and create value from data"
-
-</div>
-
----
-
 ## 🧠 AI & Machine Learning Expertise
 
 <div align="center">
@@ -58,7 +50,6 @@ me = AIEngineer()
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -105,34 +96,6 @@ me = AIEngineer()
 
 <div align="center">
 
-**🎯 Key Features:**
-
-🧠 ML-based route optimization using historical traffic data  
-🌍 Real-time air quality monitoring with IoT sensors  
-📊 Predictive analytics for traffic congestion  
-🎁 Eco-reward system for sustainable transportation  
-📱 Cross-platform mobile application
-
-</div>
-
-> **Impact:** Reducing traffic congestion by 30% and CO₂ emissions by 25% in pilot areas
-
-<a href="https://github.com/quangphamai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangphamai&repo=quangphamai&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-### 📊 [Data Science Portfolio]
-**Transforming Raw Data into Actionable Insights**
-
-- 📈 Time series forecasting for demand prediction
-- 🔍 Anomaly detection in IoT sensor networks
-- 🎯 Customer segmentation using clustering algorithms
-- 📉 Statistical analysis and A/B testing frameworks
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -144,36 +107,6 @@ me = AIEngineer()
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=quangphamai&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quangphamai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-I'm always excited to collaborate on:
-- 🤖 **AI/ML Projects**: Computer Vision, NLP, Deep Learning
-- 🌱 **Green Tech**: Environmental and sustainability solutions
-- 📱 **Mobile AI**: On-device ML and intelligent apps
-- 🚀 **Startup Ideas**: Tech-driven innovation
-- 📖 **Open Source**: Contributing to the community
-
-### 💌 Reach Out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quangphamai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quangptm.it@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quangphamai)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quangphamai)
-
 </div>
 
 ---
@@ -195,12 +128,6 @@ I'm always excited to collaborate on:
 </picture>
 
 *The snake automatically moves and eats my GitHub contributions! 🎮*
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65&animation=twinkling"/>
-
-**⚡ "In AI we trust, in code we build, in innovation we thrive" ⚡**
 
 <img src="https://komarev.com/ghpvc/?username=quangphamai&style=flat-square&color=blueviolet" alt="Profile Views"/>
 
