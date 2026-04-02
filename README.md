@@ -5,9 +5,6 @@
 <h3 align="center">🤖 Crafting AI Solutions That Transform Tomorrow</h3>
 
 <p align="center">
-  <a href="https://github.com/quangphamai">
-    <img src="https://img.shields.io/github/followers/quangphamai?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  </a>
   <a href="https://linkedin.com/in/quangphamai">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -17,7 +14,6 @@
   <a href="https://www.facebook.com/iamquangg.2004/">
     <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=quangphamai&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
@@ -25,21 +21,48 @@
 ## 🧑‍💻 About Me
 
 ```python
-class AIEngineer:
+class DeveloperProfile:
     def __init__(self):
         self.name = "Pham Tran Minh Quang"
-        self.role = "AI Engineer & Machine Learning Specialist"
-        self.location = "Vietnam 🇻🇳"
-        self.university = "Ho Chi Minh City University of Technology"
-        self.education = "Computer Science & AI"
-        
-    def current_focus(self):
+        self.location = "Ho Chi Minh City, Vietnam 🇻🇳"
+        self.university = "Ho Chi Minh University of Technology (HUTECH)"
+        self.major = "Computer Science"
+
+    def get_common_stack(self):
+        return ["Data Structures & Algorithms", "Git", "Docker", "Problem Solving"]
+
+class AIDeveloper(DeveloperProfile):
+    def __init__(self):
+        super().__init__()
+        self.role = "AI Developer"
+        self.focus_areas = ["NLP", "Large Language Models", "Deep Knowledge Tracing"]
+
+    def technical_stack(self):
         return {
-            "🔬 Research": ["Deep Learning", "Large Language Model", "NLP"],
-            "📚 Learning": ["Transformer Architectures", "Reinforcement Learning"]
+            "Frameworks": ["TensorFlow", "HuggingFace"],
+            "Architectures": ["Transformers", "CNN", "RNN"],
+            "Current_Research": "Deep Knowledge Tracing & AI Automation"
         }
 
-me = AIEngineer()
+class SoftwareEngineer(DeveloperProfile):
+    def __init__(self):
+        super().__init__()
+        self.role = "Fullstack Software Engineer"
+        self.focus_areas = ["AI Automation", "API Design", "Backend Developer"]
+
+    def technical_stack(self):
+        return {
+            "Frontend": ["React.js", "Next.js"],
+            "Backend": ["Node.js", "Python (FastAPI)", "PostgreSQL"],
+            "Database": ["SQL", "SQLite", MySQL, "PostgreSQL"],
+        }
+
+# --- Initialization ---
+
+me_as_ai = AIDeveloper()
+me_as_swe = SoftwareEngineer()
+
+print(f"Targeting: {me_as_ai.role} & {me_as_swe.role}")
 ```
 
 ## 📊 GitHub Analytics
