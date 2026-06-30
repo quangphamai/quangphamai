@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Minh+Quang" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🤖 Crafting AI Solutions That Transform Tomorrow</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/quangphamai">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
